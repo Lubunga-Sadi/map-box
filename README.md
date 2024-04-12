@@ -1,4 +1,4 @@
-# Map-box
+# Sillage-Essence
 
 
-click [here]() to view my application
+click [here](https://lubunga-sadi.github.io/map-box/) to view my application
